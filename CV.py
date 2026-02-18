@@ -42,7 +42,8 @@ st.sidebar.markdown("""
 
 
 
-        
+st.title("AISSATOU DIAGNE")
+st.markdown("**Géographe / Géomaticienne**")       
 
 st.header("Profil")
 st.write("Etudiante en BTS2 en Géomatique au CEDT le G15 à Dakar. Passionnée par les systèmes d’information géographique (SIG), l’analyse spatiale et la cartographie. Motivée à développer des compétences pratiques en géomatique et traitement de données spatiales.")
