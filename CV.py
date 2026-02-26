@@ -207,10 +207,8 @@ st.markdown("""
 QGIS  
 ArcGIS  
 ERDAS  
-Agisoft Metashape
-
+Agisoft 
 Pix4DMapper
-
 Anaconda   
 Google Earth  
 PostgreSQL   
