@@ -1,3 +1,4 @@
+
 import streamlit as st
 st.markdown("""
 <style>
@@ -214,6 +215,8 @@ PostgreSQL
 MicroStation  
 AutoCAD  
 Suite Bureautique
+Anaconda
+Pix4DMapper
 """)
         
     
