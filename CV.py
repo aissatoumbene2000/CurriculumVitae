@@ -38,9 +38,7 @@ st.sidebar.markdown("""
 
 • Cuisine  
 
- """)
 
-st.markdown("""
 ---
 **Merci pour votre temps & attention !**  
 **Aissatou Diagne**  
