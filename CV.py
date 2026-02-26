@@ -40,7 +40,7 @@ st.sidebar.markdown("""
 
 
 ---
-**Merci pour votre temps & attention !**  
+*Merci pour votre temps & attention !* 
 **Aissatou Diagne**  
 ---
 """)
