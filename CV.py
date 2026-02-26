@@ -203,20 +203,19 @@ attributs→Excel).
 """)
 
 st.markdown("---")
-st.markdown("###  LOGICIELS UTILISÉS")
+st.markdown("### LOGICIELS UTILISÉS")
 st.markdown("""
-QGIS  
-ArcGIS  
-ERDAS  
-Agisoft Metashape
-Anaconda   
-Google Earth  
-PostgreSQL   
-MicroStation  
-AutoCAD  
-Suite Bureautique
-Anaconda
-Pix4DMapper
+• QGIS  
+• ArcGIS  
+• ERDAS  
+• Agisoft Metashape  
+• Anaconda  
+• Google Earth  
+• PostgreSQL  
+• MicroStation  
+• AutoCAD  
+• Suite Bureautique  
+• Pix4DMapper
 """)
         
     
