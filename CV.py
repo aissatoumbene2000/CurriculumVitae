@@ -40,6 +40,13 @@ st.sidebar.markdown("""
 
  """)
 
+st.markdown("""
+---
+**Merci pour votre temps & attention !**  
+**Aissatou Diagne**  
+---
+""")
+
 
 
 st.title("AISSATOU DIAGNE")
@@ -51,7 +58,7 @@ st.write("Etudiante en BTS2 en Géomatique au CEDT le G15 à Dakar. Passionnée 
 st.markdown("---")
 
 
-st.header("🎓 FORMATIONS")
+st.header("FORMATIONS")
     
 
 st.markdown("""
@@ -95,7 +102,7 @@ st.markdown("""
     """)
 st.markdown("---")
 
-st.subheader("📜 Attestations et Diplômes Complémentaires")
+st.subheader("Attestations et Diplômes Complémentaires")
 
 st.markdown("""
 
@@ -128,7 +135,7 @@ Windows • Word • Excel • PowerPoint • Internet
 
 
 
-st.header("🛠️ COMPÉTENCES TECHNIQUES")
+st.header("COMPÉTENCES TECHNIQUES")
 
 col1, col2 = st.columns(2)
 
@@ -160,7 +167,7 @@ with col2:
     """)
 
 st.markdown("---")
-st.header("🎯 COMPÉTENCES OPERATIONNELLES")
+st.header("COMPÉTENCES OPERATIONNELLES")
 st.markdown("""
 **Gestion Administrative** : Dossiers sensibles (plaintes, convocations, rapports de mission).
 
@@ -170,7 +177,7 @@ st.markdown("""
 """)
 
 st.markdown("---")
-st.header("💼 EXPÉRIENCES PROFESSIONNELLES")
+st.header("EXPÉRIENCES PROFESSIONNELLES")
  
 st.markdown("""
 **STAGIAIRE** à la Direction Générale de la Surveillance et du Contrôle de l'Occupation du Sol
@@ -198,7 +205,7 @@ attributs→Excel).
 """)
 
 st.markdown("---")
-st.markdown("### 💻 LOGICIELS UTILISÉS")
+st.markdown("###  LOGICIELS UTILISÉS")
 st.markdown("""
 QGIS  
 ArcGIS  
