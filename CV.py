@@ -14,9 +14,7 @@ st.sidebar.image("ME.jpg", width=200,)
 # SIDEBAR - Infos personnelles 
 st.sidebar.title("👩‍🔬 Aïssatou DIAGNE")
 st.sidebar.markdown("""
-📍 Née le 22 Juillet 2000 à Thiès
-
-📱 +221 77 280 67 65  
+📍 Née le 22 Juillet 2000 à Thiès  
 
 ✉️ aissatoumbene2000@gmail.com 
 
@@ -41,7 +39,7 @@ st.sidebar.markdown("""
 
 ---
 Merci pour votre temps & attention !
-**Aissatou Diagne**  
+
 ---
 """)
 
