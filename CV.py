@@ -14,14 +14,13 @@ st.sidebar.image("ME.jpg", width=200,)
 
 # SIDEBAR - Infos personnelles 
 st.sidebar.title("👩‍🔬 Aïssatou DIAGNE")
-st.sidebar.markdown("""
-📍 Née le 22 Juillet 2000 à Thiès  
+st.sidebar.markdown(""" 
 
 ✉️ aissatoumbene2000@gmail.com 
 
-❤️ Célibataire sans enfant
+🆔 Sénégalaise 
 
-🆔 Sénégalaise  
+📍 Parcelles Assainies U3, Dakar
 
 🌐 LANGUES  
 
