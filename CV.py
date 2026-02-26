@@ -207,12 +207,14 @@ st.markdown("""
 QGIS  
 ArcGIS  
 ERDAS  
-Agisoft Metashape  
+Agisoft Metashape
+Pix4DMapper
 Anaconda   
 Google Earth  
 PostgreSQL   
 MicroStation  
-AutoCAD      
+AutoCAD  
+Suite Bureautique
 """)
         
     
