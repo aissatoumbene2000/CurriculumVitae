@@ -140,6 +140,7 @@ with col1:
     **SIG et Cartographie**  
     Maîtrise de QGIS/ArcGIS pour analyses spatiales, 
     création de cartes thématiques et traitement de données raster.
+    Numérisation et Géoréférencement.
     
     **Télédétection**  
     Interprétation d'images satellitaires/drones, traitement GNSS 
