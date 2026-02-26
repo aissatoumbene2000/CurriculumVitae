@@ -177,7 +177,9 @@ st.markdown("---")
 st.header("EXPÉRIENCES PROFESSIONNELLES")
  
 st.markdown("""
-**STAGIAIRE** à la Direction Générale de la Surveillance et du Contrôle de l'Occupation du Sol
+**STAGIAIRE** à la Direction Générale de la Surveillance et du Contrôle de l'Occupation du Sol (DGSCOS)
+
+**MISSIONS ET RESPONSABILITÉS**
 
 **• Patrouilles de terrain** pour la surveillance foncière et la détection d'infractions 
 (occupations irrégulières, constructions non autorisées)
