@@ -217,6 +217,7 @@ st.markdown("""
 • AutoCAD  
 • Suite Bureautique  
 • Pix4DMapper
+• PowerAMC
 """)
         
     
